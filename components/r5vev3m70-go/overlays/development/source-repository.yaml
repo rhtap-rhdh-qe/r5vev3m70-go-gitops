@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: r5vev3m70-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/r5vev3m70-go
